@@ -1,0 +1,21 @@
+{
+  "name": "jscs-validate-magic-number",
+  "version": "0.1.0",
+  "description": "The JSCS plugin for validate magic number",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --colors"
+  },
+  "author": "Alexander Lobashev",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "3.3.0",
+    "jscs": "2.3.2",
+    "mocha": "2.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/limarc/jscs-validate-magic-number.git"
+  }
+}
